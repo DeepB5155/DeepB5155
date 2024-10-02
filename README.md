@@ -26,7 +26,7 @@ Emerging Full-stack developer with expertise in .NET, React. Passionate about bu
 ## 📫 How to Reach Me
 
 - 📧 Email: [deepb5155@gmail.com](mailto:deepb5155@gmail.com)
-- 💼 LinkedIn: [Deep Patel]([https://www.linkedin.com/in/DeepPatel](https://www.linkedin.com/in/deep-patel-22a1b1300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- 💼 LinkedIn: [Deep Patel]([https://www.linkedin.com/in/DeepPatel](https://www.linkedin.com/in/deep-patel-22a1b1300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ---
